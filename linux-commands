@@ -1,0 +1,8 @@
+mkdir file name-To create a directry
+mkdir file name file name file name -to create multiple directries
+touch-to create an empty file
+cat> filename-To create file with cntent
+cat>> file name -To edit file  which is already exist
+ll-to see the file in long list
+ls- to see the files in short list
+
